@@ -1,0 +1,8 @@
+,frequency,percentage,cum_percentage
+City,183,46.2%,46.21%
+Town,106,26.8%,72.98%
+Rural,76,19.2%,92.17%
+City;Town,10,2.5%,94.7%
+City;Rural,10,2.5%,97.22%
+Rural;Town,9,2.3%,99.49%
+City;Rural;Town,2,0.5%,100.0%
